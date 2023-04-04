@@ -98,7 +98,7 @@ p{
 }
 /* row end */
 
-/* feature start */
+/* feature categories start */
 .categories{
     margin: 70px 0;
 }
@@ -119,4 +119,17 @@ p{
     padding-left: 25px;
     padding-right: 25px;
 }
-/* feature end */
+/* feature categories end */
+
+/* featured products start */
+.col-4{
+ flex-basis: 25%;
+ padding: 10px;
+ min-width: 200px;
+ margin-bottom: 50px;
+}
+
+.col-4 img{
+    width: 100%;
+}
+/* featured products start */
