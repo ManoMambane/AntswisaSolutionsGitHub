@@ -157,6 +157,11 @@ p{
 h4{
     color: #555;
     font-weight: normal;
+    text-align: center;
+}
+
+p{
+    text-align: center;
 }
 
 .col-4{
